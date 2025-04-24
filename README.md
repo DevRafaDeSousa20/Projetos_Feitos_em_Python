@@ -1,2 +1,2 @@
 # Projetos_Feitos_em_Python
- Projetos feitos utilizando Python.
+Este projeto em caráter geral, está sendo continuamente desenvolvido para demonstrar, não só a minha proeficiência e destreza dessenvolvedo em Python, mas também a versatilidade de uso desta linguagem. Os projetos aqui presentes, ou são inspirados em projetos de outros desenvolvedorees, dos quais peguei a ideia inicial e aperfeiçoei. Ou são projetos originais meus, os quais desenvolvo com o objetivo de aperfeiçoar as minhas habilidades e adquirir novas habilidades. Sou estudante da área financeira/administrativa e me inspiro em simplificar este trabalho e resolver demandas da área, por isso, aqui serão contidos em maioria, projetos com estes objetivos ou escopo. 
